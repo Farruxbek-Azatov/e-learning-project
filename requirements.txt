@@ -4,3 +4,4 @@ gunicorn
 pillow
 djangorestframework
 django-braces
+django-embed-video
